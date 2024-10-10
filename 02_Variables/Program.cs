@@ -101,13 +101,13 @@ namespace _02_Variables
 
             //int shoesCount, computerCount, chairCount, tvCount;
 
-            //Console.Write("Lüten aldığınız ayakkabı sayısını giriniz: ");
+            //Console.Write("Lütfen aldığınız ayakkabı sayısını giriniz: ");
             //shoesCount = int.Parse(Console.ReadLine());
-            //Console.Write("Lüten aldığınız bilgisayar sayısını giriniz: ");
+            //Console.Write("Lütfen aldığınız bilgisayar sayısını giriniz: ");
             //computerCount = int.Parse(Console.ReadLine());
-            //Console.Write("Lüten aldığınız sandalye sayısını giriniz: ");
+            //Console.Write("Lütfen aldığınız sandalye sayısını giriniz: ");
             //chairCount = int.Parse(Console.ReadLine());
-            //Console.Write("Lüten aldığınız televizyon sayısını giriniz: ");
+            //Console.Write("Lütfen aldığınız televizyon sayısını giriniz: ");
             //tvCount = int.Parse(Console.ReadLine());
             //int totalPrice = shoesCount * shoesPrice + computerCount * computerPrice + chairCount * chairPrice + tvCount * tvPrice;
 
