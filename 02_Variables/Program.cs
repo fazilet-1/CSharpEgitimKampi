@@ -57,7 +57,7 @@ namespace _02_Variables
             //Console.WriteLine();
             //Console.WriteLine();
 
-            //Console.WriteLine("Alışveriş Toplam Tutar: " + strawberryTotalPrice + " TL");
+            //Console.WriteLine("Alışveriş Toplam Tutar: " + shoppingTotalPrice + " TL");
             #endregion
             #region Char Değişkenler
             //ABCDEFGH
