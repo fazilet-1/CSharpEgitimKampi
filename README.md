@@ -9,7 +9,7 @@ Bu proje kapsamında değişken türlerini öğrenmeye devam ettim. Double, char
 ## 💯 Proje-3: Making Decision - Karar Yapıları
 Bu projede karar yapılarını kullanma becerisi kazandım. İf else ile örnek projeler gerçekleştirdim switch case kullanarak bir hesap makinesi ugulaması gerçekleştirdim. ✖️➕➖➗
 ## 💯 Proje-4: Loops - Döngüler 
-4. Proje ile birlikte döngülere giriş yaptım. *For döngüsü ve whie döngüsünü test ettim. 🔄
+4. Proje ile birlikte döngülere giriş yaptım. For döngüsü ve whie döngüsünü test ettim. 🔄
 ## 💯 Proje-5: Dance Of The Stars 
 Bu projede döngüleri kullanarak yıldızlarla çeşitli şekiller çizdirmeyi tecrübe ettim. 🌟🌟
 ## 💯 Proje-6: Arrays - Diziler
