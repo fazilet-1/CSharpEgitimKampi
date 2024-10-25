@@ -4,7 +4,7 @@ Her bir proje C# diline ait becerileri anlatmaktadır. Projelere ait teknik bilg
 aşağıda yer almaktadır.
 ## 💯 Proje-1: Hello World! - Merhaba Dünya! 
 Bu projede konsol ekranına yazı yazdırmayı öğrendim buna ek olarak değişken türlerinden string ve integerı öğrendim 🏆
-## 💯 Proje-2: Veriable - Değişkenler 
+## 💯 Proje-2: Veriables - Değişkenler 
 Bu proje kapsamında değişken türlerini öğrenmeye devam ettim. Double, char gibi değişken türlerini test ettim. Kullanıcıdan veri girişi almayı öğrendim. 🔡
 ## 💯 Proje-3: Making Decision - Karar Yapıları
 Bu projede karar yapılarını kullanma becerisi kazandım. İf else ile örnek projeler gerçekleştirdim switch case kullanarak bir hesap makinesi ugulaması gerçekleştirdim. ✖️➕➖➗
