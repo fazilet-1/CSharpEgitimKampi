@@ -12,7 +12,7 @@ Bu projede karar yapılarını kullanma becerisi kazandım. İf else ile örnek 
 4. Proje ile birlikte döngülere giriş yaptım. *For döngüsü ve whie döngüsünü test ettim. 🔄
 ## 💯 Proje-5: Dance Of The Stars 
 Bu projede döngüleri kullanarak yıldızlarla çeşitli şekiller çizdirmeyi tecrübe ettim. 🌟🌟
-## 💯 Proje-6: Arrays-Diziler
+## 💯 Proje-6: Arrays - Diziler
 Bu proje ile dizileri öğrendim. Bir dizinin alacağı parametre değerlerini, önceki projelerden edindiğim döngüler yardımı ile dizi elemanlarını listelemeyi öğrendim. 📝📌
 ## 💯 Proje-7: Foreach Döngüsü
 Proje kapsamında foreach döngüsünü öğrendim. Foreach döngüsünü kullanarak öğrenci sınav sistemi uygulaması gerçekleştirdim.
