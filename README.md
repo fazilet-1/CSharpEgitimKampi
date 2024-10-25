@@ -17,7 +17,7 @@ Bu proje ile dizileri öğrendim. Bir dizinin alacağı parametre değerlerini, 
 ## 💯 Proje-7: Foreach Döngüsü
 Proje kapsamında foreach döngüsünü öğrendim. Foreach döngüsünü kullanarak öğrenci sınav sistemi uygulaması gerçekleştirdim.
 Öğrenci notunu kullanıcıdan alıp sınav ortalamalarına göre geçme/kalma durumunu hesaplattım. 👩‍🎓
-## 💯 Proje-8: Methods-Metotlar
+## 💯 Proje-8: Methods - Metotlar
 Son projem olan 8. Projede ise metotları öğrendim. Paroje kapsamında geriye değer döndüren ve geriye değer döndürmeyen metotları öğrendim. 🎲
 
 Bu projeler sayesinde C# dilinin temel yapılarını öğrendim ve uygulama deneyimi elde ettim.
