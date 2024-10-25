@@ -20,5 +20,5 @@ Proje kapsamında foreach döngüsünü öğrendim. Foreach döngüsünü kullan
 ## 💯 Proje-8: Methods-Metotlar
 Son projem olan 8. Projede ise metotları öğrendim. Paroje kapsamında geriye değer döndüren ve geriye değer döndürmeyen metotları öğrendim. 🎲
 
-Bu projeler sayesinde c# dilinin temel yapılarını öğrendim ve uygulama deneyimi elde ettim.
-Gelecek projelerde öğrendiklerimin üzerine katarak c# dilindeki bilgi birikimimi zirveye taşımayı hedeflemeyteyim. 🎯
+Bu projeler sayesinde C# dilinin temel yapılarını öğrendim ve uygulama deneyimi elde ettim.
+Gelecek projelerde öğrendiklerimin üzerine katarak C# dilindeki bilgi birikimimi zirveye taşımayı hedeflemeyteyim. 🎯
